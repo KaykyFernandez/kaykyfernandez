@@ -1,12 +1,18 @@
-<h2 align="left">Hi 👋! My name is kayky and I'm a Developer Program, from Brasil</h2>
+<br clear="both">
+
+<img align="left" height="222" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/5008c241263635.579f73a622fe3.gif"  />
+
+###
+
+<h4 align="right">Hi 👋! My name is kayky and I'm a Developer Program, from Brasil</h4>
 
 ###
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaykyfernandez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaykyfernandez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaykyfernandez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaykyfernandez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -39,6 +45,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaykyfernandez/kaykyfernandez/output/pacman-contribution-graph-dark.svg">
