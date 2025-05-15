@@ -1,9 +1,10 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="1300" height="300" aling="center"> <br> <br>
-  
-  <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=22&pause=1000&color=ac5be8&center=true&vCenter=true&repeat=false&width=435&lines=kaykyfernandez" alt="Typing SVG" /></a>
-</p> <br>
+<img align="left" height="200" src="https://user-images.githubusercontent.com/68038931/147838946-616b4ed7-2e9c-4c03-8cdd-65b2b00b2d79.gif"  />
 
+###
+
+<img align="right" height="200" src="https://i.pinimg.com/originals/2a/bc/30/2abc30e8edddb36244d76934fcdd005b.gif"  />
+
+###
 
   <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=ac5be8&center=true&vCenter=true&width=435&lines=Cursando+Sist.+da+Informa%C3%A7%C3%A3o+na+FHO;Localizado+em+Araras%2C+SP;Construindo+ideias%2C+linha+por+linha" alt="Typing SVG" /></a>
